@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mhbrjselect1" android:title="@string/mhbrjlist1"
+		android:icon="@android:drawable/ic_menu_set_as" />
+    <item android:id="@+id/mhbrjselect2" android:title="@string/mhbrjlist2"
+		android:icon="@android:drawable/ic_menu_set_as" />
+    <item android:id="@+id/mhbrjselect3" android:title="@string/mhbrjlist3"
+		android:icon="@android:drawable/ic_menu_set_as" />
+    <item android:id="@+id/xpbrjselect" android:title="@string/xpbrjlist"
+		android:icon="@android:drawable/ic_menu_set_as" />
+    <item android:id="@+id/jgbrjselect" android:title="@string/jgbrjlist"
+		android:icon="@android:drawable/ic_menu_set_as" />
+    <item android:id="@+id/brxjselect" android:title="@string/brxjlist"
+		android:icon="@android:drawable/ic_menu_set_as" />
+    <item android:id="@+id/zomeinselect" android:title="@string/zomeintitle"
+		android:icon="@android:drawable/ic_menu_set_as" />
+    <item android:id="@+id/zomeoutselect" android:title="@string/zomeouttitle"
+		android:icon="@android:drawable/ic_menu_set_as" />
+    <item android:id="@+id/backgroundselect" android:title="@string/backgroundtitle"
+		android:icon="@android:drawable/ic_menu_set_as" />
+	<item android:id="@+id/about" android:title="@string/about"
+		android:icon="@android:drawable/ic_menu_info_details" />
+</menu>

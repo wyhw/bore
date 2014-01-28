@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">般若波罗蜜经</string>
+    <string name="about">关于</string>
+    <string name="aboutTitle">Microgle</string>
+    <string name="aboutInfo">般若波罗蜜经：包含摩诃般若波罗蜜经，小品般若波罗蜜经，金刚般若波罗蜜经（金刚经），般若波罗蜜多心经（心经）。其它作品：百度搜索“apk 佛经诵读”，请注意选择最新的 2.2 版。有问题可以暂时在佛经提交反馈。</string>
+    <string name="aboutOK">确定</string>
+    <string name="mhbrjlist1">摩诃般若波罗蜜经上册</string>
+    <string name="mhbrjlist2">摩诃般若波罗蜜经中册</string>
+    <string name="mhbrjlist3">摩诃般若波罗蜜经下册</string>
+    <string name="xpbrjlist">小品般若波罗蜜经</string>
+    <string name="jgbrjlist">金刚般若波罗蜜经</string>
+    <string name="brxjlist">般若波罗蜜多心经</string>
+    <string name="zomeintitle">缩小字体</string>
+    <string name="zomeouttitle">增大字体</string>
+    <string name="backgroundtitle">背景切换</string>
+</resources>
